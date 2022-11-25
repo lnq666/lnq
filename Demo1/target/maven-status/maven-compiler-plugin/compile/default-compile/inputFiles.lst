@@ -1,0 +1,15 @@
+D:\workspace\Demo1\src\main\java\com\lnq\entity\User.java
+D:\workspace\Demo1\src\main\java\com\lnq\service\BrandService.java
+D:\workspace\Demo1\src\main\java\com\lnq\service\UserService.java
+D:\workspace\Demo1\src\main\java\com\lnq\servlet\DeleteByIdServlet.java
+D:\workspace\Demo1\src\main\java\com\lnq\servlet\AddServlet.java
+D:\workspace\Demo1\src\main\java\com\lnq\mapper\UserMapper.java
+D:\workspace\Demo1\src\main\java\com\lnq\service\impl\BrandServiceImpl.java
+D:\workspace\Demo1\src\main\java\com\lnq\service\impl\UserServiceImpl.java
+D:\workspace\Demo1\src\main\java\com\lnq\servlet\SelectByIdServlet.java
+D:\workspace\Demo1\src\main\java\com\lnq\entity\Brand.java
+D:\workspace\Demo1\src\main\java\com\lnq\mapper\BrandMapper.java
+D:\workspace\Demo1\src\main\java\com\lnq\servlet\SelectAllServlet.java
+D:\workspace\Demo1\src\main\java\com\lnq\utils\SqlSessionFactoryUtils.java
+D:\workspace\Demo1\src\main\java\com\lnq\servlet\UpdateServlet.java
+D:\workspace\Demo1\src\main\java\com\lnq\servlet\LoginServlet.java

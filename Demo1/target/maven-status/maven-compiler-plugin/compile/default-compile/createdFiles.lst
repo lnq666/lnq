@@ -1,0 +1,15 @@
+com\lnq\servlet\SelectByIdServlet.class
+com\lnq\servlet\AddServlet.class
+com\lnq\service\impl\BrandServiceImpl.class
+com\lnq\servlet\LoginServlet.class
+com\lnq\mapper\BrandMapper.class
+com\lnq\servlet\DeleteByIdServlet.class
+com\lnq\utils\SqlSessionFactoryUtils.class
+com\lnq\service\impl\UserServiceImpl.class
+com\lnq\service\UserService.class
+com\lnq\mapper\UserMapper.class
+com\lnq\service\BrandService.class
+com\lnq\servlet\UpdateServlet.class
+com\lnq\entity\User.class
+com\lnq\servlet\SelectAllServlet.class
+com\lnq\entity\Brand.class
